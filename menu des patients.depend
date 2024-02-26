@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706529100 source:c:\users\samantha damna\desktop\projet info\menu des patients\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
